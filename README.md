@@ -2,4 +2,4 @@
 
 ## Welcome to my page!
 
-JANGAPP Portfolio page
+JANGAP Portfolio page
